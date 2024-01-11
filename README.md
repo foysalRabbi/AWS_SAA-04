@@ -96,7 +96,7 @@ It validates an examinee's ability to:
 
 - These notes are based on the Ultimate [AWS Certified Solutions Architect Associate 2021](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/) course by Stephane Maarek
 
-## My other AWS Certification Notes
+## Follow other resources AWS Certification Notes
 
 - [AWS Certified Developer – Associate (DVA-C01)](https://github.com/Ernyoke/certified-aws-developer-associate-notes)
 - [AWS Certified SysOps – Associate (SOA-C01)](https://github.com/Ernyoke/certified-aws-sysops-associate)
