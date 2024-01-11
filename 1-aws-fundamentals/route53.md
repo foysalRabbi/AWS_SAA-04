@@ -13,7 +13,7 @@
 - Route53 has advanced features such as:
     - Load balancing through DNS - also called client load balancing
     - Health checks
-    - Routing policy: simple, failover, geolocation, latency, weighted, multi value
+    - Routing policy: simple, failover, geolocation, latency, weighted, multi-value
 - We pay $0.5 per month per hosted zone
 
 ## DNS Records TTL (Time to Live)
@@ -100,9 +100,9 @@
 - It will return up to 8 healthy records for each Multi Value query
 - It is not a substitute for Elastic Load Balancer!
 
-## Route 53 as a Registrar
+## Route 53 as a Registration
 
-- A domain name registrar is an organization that manages the reservation of internet domain names. Some domain registrars are: GoDaddy, Google Domain and also Route 53
+- A domain name registration is an organization that manages the reservation of internet domain names. Some domain registrars are: GoDaddy, Google Domain and also Route 53
 - It is possible to use a third party domain registrar with AWS. In order to use a domain bought from the third party, we have to do the following:
     1. Create a hosted zone in Route53
     2. Update NS records on 3rd party website to use Route 53 name servers
